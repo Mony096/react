@@ -1,0 +1,11 @@
+.animation{
+    animation: mony 1s linear;
+}
+@keyframes mony{
+    from{
+     opacity: 0;
+    }
+    to{
+      opacity: 1;
+    }
+}
